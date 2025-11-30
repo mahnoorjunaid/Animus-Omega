@@ -64,7 +64,8 @@ The system utilizes a modular smart contract architecture for security and scala
 ---
 
 ## 👨‍💻 Credits
-*   **Developers:** [Your Names]
+*   **Developers:** [Taha Haider, Noor e Zahra, Mahnoor Junaid]
 *   **Assets:** Ubisoft (Visuals), Brian Tyler (Audio).
 
 *   **Tech Stack:** Solidity, Hardhat/Remix, Ethers.js, HTML5.
+
